@@ -2,7 +2,7 @@
 
 我之前的[奶龙检测](https://github.com/spawner1145/NailongRecognize.git)的改进版本
 
-使用了强化学习，优化了一些预处理
+使用了强化学习的思想，并优化了一些预处理操作
 
 这个版本不需要准备test集了，直接放进train相关文件夹就行
 
