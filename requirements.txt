@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+imbalanced-learn
+opencv-python
+# torch安装比较复杂，自己装

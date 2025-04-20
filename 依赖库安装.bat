@@ -1,1 +1,1 @@
-pip install numpy torch torchvision scikit-learn imbalanced-learn opencv-python
+pip install numpy scikit-learn imbalanced-learn opencv-python
