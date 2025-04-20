@@ -6,6 +6,6 @@
 
 这个版本不需要准备test集了，直接放进train相关文件夹就行
 
-run.py和run_rl.py支持外部base64调用，示例在底部
+run.py和run_rl.py(一个类似强化学习机制的推理脚本)支持外部base64调用，示例在底部
 
 如果单独运行run.py，确保input文件夹中有文件；如果单独运行run_rl.py，确保input_true和input_false文件夹有文件
